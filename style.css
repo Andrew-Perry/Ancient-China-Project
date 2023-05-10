@@ -1,10 +1,19 @@
 body{
-    background-color:#b5b2aa;
+    background-color:#d7dbd8;
 }
+
 h1{
     text-align: center;
+    font-size: 70px;
+    height: 50px;
 }
+
 hr{
     color:black;
-    width:80%;
+    width:60%;
+}
+
+#credit {
+    text-align:center;
+    font-style: italic;
 }
