@@ -1,7 +1,10 @@
 body{
-    background-color:#bbbfbc;
+    background-color:#b5b2aa;
 }
-
-hr {
-    width: 80%;
+h1{
+    text-align: center;
+}
+hr{
+    color:black;
+    width:80%;
 }
