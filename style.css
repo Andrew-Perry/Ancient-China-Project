@@ -13,6 +13,11 @@ hr{
     width:60%;
 }
 
+a {
+    color: black;
+    text-decoration: none;
+}
+
 .toplinks {
     text-align: center;
 }
@@ -20,4 +25,8 @@ hr{
 #credit {
     text-align:center;
     font-style: italic;
+}
+
+#links {
+    text-align: center;
 }
