@@ -1,5 +1,5 @@
 body{
-    background-color:#d7dbd8;
+    background-color:#eff7f1;
 }
 
 h1{
@@ -25,4 +25,6 @@ a {
 
 #links {
     text-align: center;
+    /*background-color: #cacfcb;*/
+    height:50px;
 }
