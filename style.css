@@ -20,11 +20,14 @@ a {
 img{
     width:300px;
     height:auto;
+    border:solid;
+    border-width:1.5px;
+    box-shadow:5px 5px 5px gray;
 }
 
 .mainparagraph {
-    margin-left: 450px;
-    margin-right:450px;
+    margin-left: 350px;
+    margin-right:550px;
 }
 .mainparagraph p{
     text-indent: 10%;
