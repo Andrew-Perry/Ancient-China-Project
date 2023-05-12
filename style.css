@@ -30,7 +30,12 @@ img{
     text-indent: 10%;
     text-align: justify;
 }
-
+.odd{
+    float:left;
+}
+.even{
+    float:right;
+}
 #credit {
     text-align:center;
     font-style: italic;
@@ -40,10 +45,4 @@ img{
     text-align: center;
     /*background-color: #cacfcb;*/
     height:50px;
-}
-#odd{
-    float:left;
-}
-#even{
-    float:right;
 }
