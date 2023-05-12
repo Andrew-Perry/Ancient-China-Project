@@ -28,6 +28,7 @@ img{
 }
 .mainparagraph p{
     text-indent: 10%;
+    text-align: justify;
 }
 
 #credit {
@@ -39,4 +40,10 @@ img{
     text-align: center;
     /*background-color: #cacfcb;*/
     height:50px;
+}
+#odd{
+    float:left;
+}
+#even{
+    float:right;
 }
