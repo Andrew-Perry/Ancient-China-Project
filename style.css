@@ -32,10 +32,6 @@ main{
     margin-left: 20%;
     margin-right:40%;
 }
-main p{
-    text-indent: 10%;
-    text-align: justify;
-}
 
 .odd{
     float:left;
