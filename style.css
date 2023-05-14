@@ -28,16 +28,16 @@ iframe{
     text-align: center;
     width:100%;
 }
-
-.mainparagraph {
+main{
     margin-left: 20%;
     margin-right:40%;
 }
-.mainparagraph p{
+main p{
     text-indent: 10%;
     right:30px;
     text-align: justify;
 }
+
 .odd{
     float:left;
 }
