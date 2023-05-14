@@ -39,6 +39,16 @@ main{
 .even{
     float:right;
 }
+.content{
+    text-indent: 5%;
+}
+.oddcontent {
+    margin-left:40%;
+}
+.evencontent {
+    margin-right:40%;
+}
+
 #credit {
     text-align:center;
     font-style: italic;
