@@ -54,3 +54,8 @@ main p{
     /*background-color: #cacfcb;*/
     height:50px;
 }
+
+/*Makes the link bold when you hover over it*/
+a:hover{
+    font-weight: bolder;
+}
