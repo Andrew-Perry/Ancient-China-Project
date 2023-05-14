@@ -22,7 +22,7 @@ img{
     height:auto;
     border:solid;
     border-width:1.5px;
-    box-shadow:5px 5px 5px gray;
+    box-shadow:-5px 5px 5px gray;
 }
 iframe{
     text-align: center;
