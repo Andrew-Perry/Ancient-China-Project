@@ -62,7 +62,12 @@ footer p{
 .leftimages {
     width:20%;
     margin-left:10%;
-    margin-right:20%;
+    margin-right:600%;
+}
+
+.rightimages {
+    width:20%;
+    margin-left:70%
 }
 
 
