@@ -44,13 +44,11 @@ footer p{
 }
 
 .leftmain{
-    margin-right:70%;
     float:left;
     width:27.5%;
     height:auto;
 }
 .rightmain{
-    margin-left:70%;
     float:right;
     width:27.5%;
     height:auto;
