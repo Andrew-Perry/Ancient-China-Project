@@ -43,6 +43,18 @@ footer p{
     margin-right:20%;
 }
 
+.leftmain{
+    margin-right:70%;
+    float:left;
+    width:27.5%;
+    height:auto;
+}
+.rightmain{
+    margin-left:70%;
+    float:right;
+    width:27.5%;
+    height:auto;
+}
 .odd{
     float:left;
 }
@@ -57,17 +69,6 @@ footer p{
 }
 .evencontent {
     margin-right:40%;
-}
-
-.leftimages {
-    width:20%;
-    margin-left:10%;
-    margin-right:600%;
-}
-
-.rightimages {
-    width:20%;
-    margin-left:70%
 }
 
 
