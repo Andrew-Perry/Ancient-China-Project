@@ -29,6 +29,11 @@ iframe{
     width:100%;
     box-shadow:-5px 5px 5px gray;
 }
+
+main {
+    position:relative;
+    top:-100px;
+}
 article{
     margin-left: 30%;
     margin-right:30%;
@@ -49,6 +54,7 @@ footer p{
     height:auto;
 }
 .rightmain{
+
     float:right;
     width:27.5%;
     height:auto;
@@ -81,6 +87,21 @@ footer p{
     height:50px;
 }
 
+#mainparagraph {
+    text-indent: 5%;
+    margin-left:30%;
+    margin-right:30%;
+    height:25em;
+    position:relative;
+    top:15em;
+}
+
+#mainheader {
+    margin-left:30%;
+    margin-right:30%;
+    position:relative;
+    top:10em;
+}
 /*Makes the link bold when you hover over it*/
 a:hover{
     font-weight: bolder;
